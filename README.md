@@ -24,9 +24,10 @@ Here are some ideas to get you started:
 
 - 🚢 Open source contributor
 - 🎖 Kubernetes, Docker, Bash
-- 🚀 Jenkins, Golang and Helm
+- 🚀 IaC, Golang & Helm
 - 🤝 Always open for cooperation
-- ❤️ Gym 💪, space 🌏 and netflix 🍿
+- ❤️ Gym 💪, Game 🎮 & Netflix 🍿
+- 🎵 R&B, Pop & Lo-fi
 
 <br>
 
