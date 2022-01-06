@@ -16,11 +16,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center">
-   <h1>Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+<div align="left">
+   <h2>Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
 </div>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=arpitjindal97&count_private=true&show_icons=true&hide_title=true&hide=stars" />
+I'm a DevOps Engineer with a passion for developing innovative programs ⚡. Well-versed in technology and writing code to creating systems that are reliable and user-friendly.
+
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=arpitjindal97&count_private=true&show_icons=true&hide_title=true&hide=stars&theme=tokyonight" />
 
 - 🚢 Open source contributor
 - 🎖 Kubernetes, Docker, Bash
@@ -31,6 +34,8 @@ Here are some ideas to get you started:
 
 <br>
 
+<!--
 <div align="center">
    <img src="https://github-profile-trophy.vercel.app/?username=arpitjindal97&theme=flat&no-frame=true&margin-w=30" />
 </div>
+-->
