@@ -17,22 +17,21 @@ Here are some ideas to get you started:
 -->
 
 <div align="left">
-   <h2>Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
+   <h2>Hi there! 👋</h2>
 </div>
 
-I'm a DevOps Engineer with a passion for developing innovative programs ⚡. Well-versed in technology and writing code to creating systems that are reliable and user-friendly.
+I'm an Infrastructure Engineer with a passion for developing innovative programs ⚡. Well-versed in technology and writing code to creating solutions that are reliable and user-friendly.
 
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=arpitjindal97&count_private=true&show_icons=true&hide_title=true&hide=stars&theme=tokyonight" />
 
-- 🚢 Open source contributor
+- 🚢 Open Source contributor
 - 🎖 Kubernetes, Docker, Bash
-- 🚀 IaC, Golang & Helm
+- 🚀 IaC, Golang & Observability
 - 🤝 Always open for cooperation
 - ❤️ Gym 💪, Game 🎮 & Netflix 🍿
 - 🎵 R&B, Pop & Lo-fi
 
-<br>
 
 <!--
 <div align="center">
