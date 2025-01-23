@@ -29,8 +29,6 @@ I'm an Infrastructure Engineer with a passion for developing innovative programs
 - 🎖 Kubernetes, Docker, Bash
 - 🚀 IaC, Golang & Observability
 - 🤝 Always open for cooperation
-- ❤️ Gym 💪, Game 🎮 & Netflix 🍿
-- 🎵 R&B, Pop & Lo-fi
 
 
 <!--
