@@ -1,28 +1,30 @@
-<h2 align="center">Hey, I'm Arpit 👋</h2>
-
 <p align="center">
-  🚀 <b>Site Reliability / Infrastructure Engineer @ Booking.com</b><br>
-  ⚙️ Kubernetes · 🐳 Docker · 🧑‍💻 Go · 📈 Observability · 🤖 Automation
+  <b>Reliability. Automation. Observability. Open source.</b><br>
+  Building calm systems for messy real-world operations.
 </p>
 
-I like building systems that stay calm under pressure — reliable, observable, and boring in production.
+---
 
-### 🧭 What I care about
+### 🚀 What I like building
 
-- 🛠️ Turning messy operations into clean, repeatable automation
-- 🔍 Making systems easy to debug before they become incidents
-- ☁️ Building cloud-native infrastructure that operators can trust
-- 📚 Sharing practical tools, notes, and recipes from real-world work
+- ⚙️ Infrastructure that is boring in production and easy to operate
+- 🔍 Observability that helps debug issues before they become incidents
+- 🤖 Automation that removes repetitive manual work
+- 🧰 Small, practical tools for operators, homelabs, and platform teams
 
-### 🔥 Open-source highlights
-
-- 🥧 [`raspbian-recipes`](https://github.com/arpitjindal97/raspbian-recipes) — Raspberry Pi networking made easier
-- 📹 [`onvif-server`](https://github.com/arpitjindal97/onvif-server) — lightweight ONVIF Profile S server in Go
-- 🛡️ [`aegis`](https://github.com/arpitjindal97/aegis) — personal VPN server in a single container
-- 🧰 [`dotfiles`](https://github.com/arpitjindal97/dotfiles) — simple, portable terminal setup
-
-### 🧪 Toolbox
+### 🛠️ Current toolbox
 
 `Go` · `Bash` · `Kubernetes` · `Docker` · `Terraform` · `Helm` · `Prometheus` · `Grafana` · `OpenTelemetry` · `Linux`
+
+### 🔥 Projects worth checking out
+
+- 🥧 [`raspbian-recipes`](https://github.com/arpitjindal97/raspbian-recipes) — Raspberry Pi networking recipes
+- 📹 [`onvif-server`](https://github.com/arpitjindal97/onvif-server) — lightweight ONVIF Profile S server in Go
+- 🛡️ [`aegis`](https://github.com/arpitjindal97/aegis) — personal VPN server in a single container
+- 🧰 [`dotfiles`](https://github.com/arpitjindal97/dotfiles) — portable terminal setup
+
+### 🌱 Open-source footprint
+
+Contributions and experiments around **OpenTelemetry**, **Jaeger**, Docker ecosystem tooling, Raspberry Pi networking, and self-hosted infrastructure.
 
 > ✨ Do one thing, and do it really well.
