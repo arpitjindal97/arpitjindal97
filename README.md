@@ -1,14 +1,28 @@
-<h2 align="center">Hi, I'm Arpit 👋</h2>
+<h2 align="center">Hey, I'm Arpit 👋</h2>
 
 <p align="center">
-  <b>SRE / Infrastructure Engineer @ Booking.com</b><br>
-  Kubernetes · Go · Docker · Observability · Automation
+  🚀 <b>Site Reliability / Infrastructure Engineer @ Booking.com</b><br>
+  ⚙️ Kubernetes · 🐳 Docker · 🧑‍💻 Go · 📈 Observability · 🤖 Automation
 </p>
 
-I build reliable systems and sharp operator tools — the kind that make production boring, observable, and easy to debug.
+I like building systems that stay calm under pressure — reliable, observable, and boring in production.
 
-- ⚙️ Infra: Kubernetes, Docker, Linux, CI/CD, Terraform, Helm
-- 📈 Observability: Prometheus, Grafana, OpenTelemetry, Jaeger
-- 🛠️ Open source: [`raspbian-recipes`](https://github.com/arpitjindal97/raspbian-recipes), [`onvif-server`](https://github.com/arpitjindal97/onvif-server), [`aegis`](https://github.com/arpitjindal97/aegis)
+### 🧭 What I care about
 
-> Do one thing, and do it really well.
+- 🛠️ Turning messy operations into clean, repeatable automation
+- 🔍 Making systems easy to debug before they become incidents
+- ☁️ Building cloud-native infrastructure that operators can trust
+- 📚 Sharing practical tools, notes, and recipes from real-world work
+
+### 🔥 Open-source highlights
+
+- 🥧 [`raspbian-recipes`](https://github.com/arpitjindal97/raspbian-recipes) — Raspberry Pi networking made easier
+- 📹 [`onvif-server`](https://github.com/arpitjindal97/onvif-server) — lightweight ONVIF Profile S server in Go
+- 🛡️ [`aegis`](https://github.com/arpitjindal97/aegis) — personal VPN server in a single container
+- 🧰 [`dotfiles`](https://github.com/arpitjindal97/dotfiles) — simple, portable terminal setup
+
+### 🧪 Toolbox
+
+`Go` · `Bash` · `Kubernetes` · `Docker` · `Terraform` · `Helm` · `Prometheus` · `Grafana` · `OpenTelemetry` · `Linux`
+
+> ✨ Do one thing, and do it really well.
